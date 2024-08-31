@@ -1,17 +1,5 @@
 /* 
 
-Hi XD
-
-
-
-
-
-
-
-
-
-
-
-
+What do i put here 🤔
 
 */
