@@ -4,7 +4,7 @@
 
 **[▶️ Play Click The Dots Now!](https://tinyurl.com/ClickTheDots)**
 
-Or, you can download the [💾 offline version](#) (Slow updates).
+Or, you can download the [💾 offline version](https://github.com/CrownedStudioss/Click-The-Dots/releases/tag/Bata) (Slow updates).
 
 ---
 
