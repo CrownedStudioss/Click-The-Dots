@@ -1,5 +1,18 @@
-<h1>Click-The-Dots (Old Project)</h1>
-<p>This Game is vary unstable, I suggest you don't play.<p>
-<p>Play <a href="https://tinyurl.com/ClickTheDots">Click The Dots</a> Now!</p>
+# 🎯 Click-The-Dots (Old Project)
 
-<p>Or Download the offline verson (Slow updates)<p>
+> **⚠️ Note:** This game is currently very unstable.
+
+**[▶️ Play Click The Dots Now!](https://tinyurl.com/ClickTheDots)**
+
+Or, you can download the [💾 offline version](#) (Slow updates).
+
+---
+
+## 🚀 Coming Soon
+
+- 🛠️ Improved game stability
+- 🆕 New levels and challenges
+- 🎨 Enhanced graphics and sound
+- 📱 Mobile-friendly interface
+- 🏆 Leaderboards and achievements
+- 🔜 And Much More
